@@ -3,6 +3,7 @@ module github.com/gin-gonic/gin
 go 1.13
 
 require (
+	github.com/ghodss/yaml v1.0.0
 	github.com/gin-contrib/sse v0.1.0
 	github.com/go-playground/validator/v10 v10.4.1
 	github.com/golang/protobuf v1.3.3
